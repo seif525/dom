@@ -1,0 +1,31 @@
+*{margin: 0;}
+
+header{background-color: orange;}
+#logo {margin-top: 2px;}
+header{display: flex;
+align-items: center;}
+#gritting{margin-left: 300px;
+    color: grey;
+    text-shadow: 40px 40px 50px red;
+    position: absolute;
+    top: 60px;
+    left: 250px;
+    }
+    #im{display: flex;
+        justify-content: flex-end;
+    }
+        li{list-style-type: none;}
+        body{background-color: burlywood;
+        }
+     .m{ background-color: grey;}
+ 
+    #f1{ display: flex;
+    align-items: center;
+align-content: space-between ; 
+align-items: center;
+justify-content: space-between;}
+#f2{ display: flex;
+    align-items: center;
+align-content: space-between ; 
+align-items: center;
+justify-content: space-between;}
